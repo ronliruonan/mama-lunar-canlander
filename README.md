@@ -2,6 +2,14 @@
 
 面向 Android 桌面的离线农历小部件。当前已在 OnePlus MT2110、Android 14 上编译安装，并验证应用页面、桌面卡片添加和点击打开。
 
+## 效果预览
+
+OnePlus 真机桌面：大字农历、独立星期、周末红字提示与节气倒计时。
+
+<p align="center">
+  <img src="docs/images/lunar-widget-oneplus.jpg" alt="今日农历在 OnePlus 桌面的实际效果：八月初九、星期六的六字为红色、距秋分4天" width="320" />
+</p>
+
 ## 功能
 
 - 农历月日（包括闰月）、公历与星期、干支生肖年。
