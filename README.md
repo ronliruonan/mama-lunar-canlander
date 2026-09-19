@@ -1,6 +1,6 @@
 # 今日农历
 
-面向 Android 桌面的离线农历小部件。当前已在 OnePlus MT2110、Android 14 上编译安装，并验证应用页面、桌面卡片添加和点击打开。
+专为长辈设计的 Android 大字农历桌面卡片，无需联网即可使用。当前已在 OnePlus MT2110、Android 14 上编译安装，并验证应用页面、桌面卡片添加和点击打开。
 
 这个项目为爸爸妈妈而做，由 [ronliruonan](https://github.com/ronliruonan) 与 **OpenAI Codex** 协作完成，让长辈在桌面上就能看清农历、星期和节气。
 
