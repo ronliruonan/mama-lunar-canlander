@@ -1,0 +1,8 @@
+<resources>
+    <color name="widget_background">#FAF6EB</color>
+    <color name="widget_ink">#18251C</color>
+    <color name="widget_muted">#3F4A40</color>
+    <color name="widget_accent">#8C3524</color>
+    <color name="widget_weekend">#B3261E</color>
+    <color name="widget_border">#E2DCCF</color>
+</resources>

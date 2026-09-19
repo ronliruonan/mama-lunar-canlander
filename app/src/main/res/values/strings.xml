@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">今日农历</string>
+    <string name="widget_name">今日农历 · 节气</string>
+    <string name="widget_description">离线查看农历日期、二十四节气与传统节日，按北京时间自动更新。</string>
+    <string name="widget_title">今日农历</string>
+    <string name="widget_refresh">刷新日期</string>
+    <string name="widget_refresh_icon">↻</string>
+    <string name="widget_date_placeholder">农历日期</string>
+    <string name="widget_solar_placeholder">公历日期</string>
+    <string name="widget_weekday_placeholder">星期几</string>
+    <string name="widget_term_placeholder">二十四节气</string>
+</resources>
