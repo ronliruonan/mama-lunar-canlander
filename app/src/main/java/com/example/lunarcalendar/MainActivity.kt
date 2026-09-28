@@ -165,7 +165,7 @@ private fun CalendarScreen(day: CalendarDay, onAddWidget: () -> Unit, onRefresh:
                         }
                     }
                     Text(
-                        "推荐使用 4×3 大字卡片。旧卡片如仍然较小，可长按卡片向下拉大，或重新添加。\n\nOnePlus 添加入口：长按桌面空白处 → 小部件 → 全部 → 列表底部 Home screen widgets → 今日农历。\n\n卡片按北京时间换日。系统省电可能延迟自动刷新，点击卡片右上角 ↻ 可立即更新。",
+                        "推荐使用 4×2 大字卡片。更新后旧卡片若仍占 3 行，可长按卡片将下边框向上拖到 2 行，或重新添加。文字换行时可再拉高。\n\nOnePlus 添加入口：长按桌面空白处 → 小部件 → 全部 → 列表底部 Home screen widgets → 今日农历。\n\n卡片按北京时间换日。系统省电可能延迟自动刷新，点击卡片右上角 ↻ 可立即更新。",
                         fontSize = 16.sp, lineHeight = 26.sp, color = colors.onSurfaceVariant
                     )
                     TextButton(onClick = { showLicense = true }) { Text("历法来源与开源许可") }
