@@ -1,0 +1,608 @@
+{
+  "items": [
+    {
+      "category_id": 2566,
+      "items": [
+        {
+          "name": "优酷视频",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_youku_phone.png"
+        },
+        {
+          "name": "搜狗输入法",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_inputmethod_sogou.png"
+        },
+        {
+          "name": "淘宝闪购",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_me_ele.png"
+        },
+        {
+          "name": "MOMO陌陌",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_momo.png"
+        },
+        {
+          "name": "腾讯手机管家",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_qqpimsecure.png"
+        },
+        {
+          "name": "去哪儿旅行",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_qunar.png"
+        },
+        {
+          "name": "支付宝",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_alipaygphone.png"
+        },
+        {
+          "name": "美团",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_sankuai_meituan.png"
+        },
+        {
+          "name": "高德地图",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_autonavi_minimap.png"
+        },
+        {
+          "name": "WiFi万能钥匙",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_snda_wifilocating.png"
+        },
+        {
+          "name": "百度地图",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_baidumap.png"
+        },
+        {
+          "name": "西瓜视频",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_ss_android_article_video.png"
+        },
+        {
+          "name": "QQ",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_mobileqq.png"
+        },
+        {
+          "name": "腾讯新闻",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_news.png"
+        },
+        {
+          "name": "腾讯视频",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_qqlive.png"
+        },
+        {
+          "name": "和平精英",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_tmgp_pubgmhd.png"
+        },
+        {
+          "name": "哔哩哔哩",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tv_danmaku_bili.png"
+        },
+        {
+          "name": "微视",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcherr_tencent_weishi.png"
+        },
+        {
+          "name": "钉钉",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_alibaba_android_rimet.png"
+        },
+        {
+          "name": "美团外卖",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/com.sankuai.meituan.takeoutnew.png"
+        },
+        {
+          "name": "全民K歌",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_karaoke.png"
+        },
+        {
+          "name": "微信",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_mm.png"
+        },
+        {
+          "name": "淘宝",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_taobao.png"
+        },
+        {
+          "name": "第三方图标气泡提示",
+          "necessary": 1,
+          "item_type": 11,
+          "resource_path": ""
+        },
+        {
+          "name": "爱奇艺",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_qiyi_video.png"
+        },
+        {
+          "name": "今日头条",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_ss_android_article_news.png"
+        },
+        {
+          "name": "京东",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_jingdong_app_mall.png"
+        },
+        {
+          "name": "百度",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_baidu_searchbox.png"
+        },
+        {
+          "name": "微博",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_sina_weibo.png"
+        },
+        {
+          "name": "拼多多",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_xunmeng_pinduoduo.png"
+        },
+        {
+          "name": "快手",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_smile_gifmaker.png"
+        },
+        {
+          "name": "小红书",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_xingin_xhs.png"
+        },
+        {
+          "name": "夸克",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/com.quark.browser.png"
+        },
+        {
+          "name": "滴滴出行",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_sdu_didi_psnger.png"
+        },
+        {
+          "name": "抖音",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_ss_android_ugc_aweme.png"
+        },
+        {
+          "name": "大众点评",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_dianping_v1.png"
+        },
+        {
+          "name": "喜马拉雅",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_ximalaya_ting_android.png"
+        },
+        {
+          "name": "网易云音乐",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_netease_cloudmusic.png"
+        },
+        {
+          "name": "手机QQ音乐",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_qqmusic.png"
+        },
+        {
+          "name": "王者荣耀",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_tmgp_sgame.png"
+        },
+        {
+          "name": "豆瓣",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_douban_frodo.png"
+        },
+        {
+          "name": "唯品会",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_achievo_vipshop.png"
+        },
+        {
+          "name": "Keep",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/com.gotokeep.keep.png"
+        },
+        {
+          "name": "QQ浏览器",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tencent_mtt.png"
+        },
+        {
+          "name": "闲鱼",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/com.taobao.idlefish.png"
+        },
+        {
+          "name": "视界",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/cn.com.people.watch.png"
+        },
+        {
+          "name": "58同城",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_wuba.png"
+        },
+        {
+          "name": "番茄免费小说",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/com.dragon.read.png"
+        },
+        {
+          "name": "英雄联盟",
+          "necessary": 1,
+          "item_type": 7,
+          "resource_path": "icons/res/drawable-xxhdpi/com.tencent.lolm.png"
+        }
+      ]
+    },
+    {
+      "category_id": 2561,
+      "items": [
+        {
+          "name": "云服务",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_cloudservice.png"
+        },
+        {
+          "name": "一加社区",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_oneplus_bbs.png"
+        },
+        {
+          "name": "手机搬家",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_backuprestore.png"
+        },
+        {
+          "name": "文档",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_oplusdocumentsreader.png"
+        },
+        {
+          "name": "小布助手",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "com.android.launcher/res/drawable-xxhdpi/com.heytap.speechassist.png"
+        },
+        {
+          "name": "红外遥控",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/com.oplus.consumerIRApp.png"
+        },
+        {
+          "name": "书城",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_book_store.png"
+        },
+        {
+          "name": "浏览器",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_browser.png"
+        },
+        {
+          "name": "计算机",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_calcultor.png"
+        },
+        {
+          "name": "日历（静态）",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_calender.png"
+        },
+        {
+          "name": "指南针",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_compass.png"
+        },
+        {
+          "name": "相机",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_camera.png"
+        },
+        {
+          "name": "时钟（静态）",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_clock.png"
+        },
+        {
+          "name": "拨号",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_dialer.png"
+        },
+        {
+          "name": "远程守护",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_familyguard.png"
+        },
+        {
+          "name": "文件管理",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_filemanager.png"
+        },
+        {
+          "name": "图库",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_gallery3d.png"
+        },
+        {
+          "name": "游戏空间",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_gamespace.png"
+        },
+        {
+          "name": "音乐",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_music.png"
+        },
+        {
+          "name": "游戏中心",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_gamecenter.png"
+        },
+        {
+          "name": "软件商店",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_market.png"
+        },
+        {
+          "name": "便签",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_note.png"
+        },
+        {
+          "name": "oppo+",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_oppotribune.png"
+        },
+        {
+          "name": "小游戏",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_play.png"
+        },
+        {
+          "name": "阅读",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_reader.png"
+        },
+        {
+          "name": "我的OPPO",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_nearme_usercenter.png"
+        },
+        {
+          "name": "智能家居",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_ohome.png"
+        },
+        {
+          "name": "一键锁屏",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_onekeylockscreen.png"
+        },
+        {
+          "name": "联系人",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_oppo_contacts.png"
+        },
+        {
+          "name": "录音机",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_recorder.png"
+        },
+        {
+          "name": "手机管家",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_securesafe.png"
+        },
+        {
+          "name": "设置",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_settings.png"
+        },
+        {
+          "name": "短信",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_smsmms.png"
+        },
+        {
+          "name": "语音",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_speechassist.png"
+        },
+        {
+          "name": "oppo商城",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_store.png"
+        },
+        {
+          "name": "主题商店",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_themespace.png"
+        },
+        {
+          "name": "使用技巧",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_tips.png"
+        },
+        {
+          "name": "钱包",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_wallet.png"
+        },
+        {
+          "name": "天气",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_weather.png"
+        },
+        {
+          "name": "邮箱",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_email.png"
+        },
+        {
+          "name": "即录",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_videoeditor.png"
+        },
+        {
+          "name": "短视频",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_yoli.png"
+        },
+        {
+          "name": "健康",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_health.png"
+        },
+        {
+          "name": "Breeno 指令",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_shortcuts.png"
+        },
+        {
+          "name": "SIM 卡",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/ic_launcher_stk.png"
+        },
+        {
+          "name": "一加相机",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/com.oplus.camera.png"
+        },
+        {
+          "name": "禅定空间",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/com.oneplus.brickmode.png"
+        },
+        {
+          "name": "反馈工具箱",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/com.oplus.logkit.png"
+        },
+        {
+          "name": "我的一加",
+          "necessary": 1,
+          "item_type": 1,
+          "resource_path": "icons/res/drawable-xxhdpi/com.heytap.vip.png"
+        },
+        {
+          "name": "提示",
+          "necessary": 1,
+          "item_type": 11,
+          "resource_path": ""
+        }
+      ]
+    }
+  ]
+}

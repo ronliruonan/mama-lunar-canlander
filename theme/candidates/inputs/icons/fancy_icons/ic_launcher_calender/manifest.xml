@@ -1,0 +1,4 @@
+<Icon version="1" width="240" height="240" frameRate="0" useVariableUpdater="DateTime.Day">
+<Image src="day_festival.png" /><Image src="line.png" />
+<Text x="120" y="154" align="center" alignV="center" size="87" color="#F3EAD8" textExp="#date" />
+</Icon>

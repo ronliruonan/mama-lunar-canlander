@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 待真机验证的方案；历史 NNNN 对照布局仍在 ../manifest.xml。
+     官方文档：13604（农历全局变量）、13605（VarArray）、13518（Text）。
+     主题引擎的日期及时区行为不能由 Android CalendarRepository 控制。 -->
+<Lockscreen version="1" frameRate="30" vibrate="false" displayDesktop="true" screenWidth="1080">
+    <Wallpaper src="default_lock_wallpaper.png" visibility="1" />
+    <Unlocker alias="解锁控件" name="unlocker">
+        <StartPoint x="0" y="#touch_begin_y" w="#screen_width" h="1" />
+        <EndPoint x="0" y="ifelse(gt(-#unlocker.move_y,450),#touch_y,-1)" w="#screen_width" h="1" />
+    </Unlocker>
+    <VarArray type="string">
+        <Vars><Var name="lc_month_text" index="#month_lunar-1" /></Vars>
+        <Items>
+            <Item value="正月" /><Item value="二月" /><Item value="三月" />
+            <Item value="四月" /><Item value="五月" /><Item value="六月" />
+            <Item value="七月" /><Item value="八月" /><Item value="九月" />
+            <Item value="十月" /><Item value="冬月" /><Item value="腊月" />
+        </Items>
+    </VarArray>
+    <VarArray type="string">
+        <Vars><Var name="lc_day_text" index="#date_lunar-1" /></Vars>
+        <Items>
+            <Item value="初一" /><Item value="初二" /><Item value="初三" />
+            <Item value="初四" /><Item value="初五" /><Item value="初六" />
+            <Item value="初七" /><Item value="初八" /><Item value="初九" />
+            <Item value="初十" /><Item value="十一" /><Item value="十二" />
+            <Item value="十三" /><Item value="十四" /><Item value="十五" />
+            <Item value="十六" /><Item value="十七" /><Item value="十八" />
+            <Item value="十九" /><Item value="二十" /><Item value="廿一" />
+            <Item value="廿二" /><Item value="廿三" /><Item value="廿四" />
+            <Item value="廿五" /><Item value="廿六" /><Item value="廿七" />
+            <Item value="廿八" /><Item value="廿九" /><Item value="三十" />
+        </Items>
+    </VarArray>
+    <DateTime x="90" y="350" color="#FFFFFF" size="164" align="left" alignV="center" format="HH:mm" />
+    <DateTime x="90" y="510" color="#FFFFFF" size="54" align="left" alignV="center" format="yyyy年M月d日 EEEE" />
+    <!-- 中部留给通知和稻穗；底部留给指纹和相机。最长闰月日期也须真机检查。 -->
+    <Text x="540" y="#screen_height*0.65" color="#103424" size="52" align="center" alignV="center" text="农历" />
+    <Text x="540" y="#screen_height*0.725" color="#103424" size="138" align="center" alignV="center"
+          textExp="ifelse(#month_lunar_leap,'闰','')+@lc_month_text+@lc_day_text" />
+</Lockscreen>

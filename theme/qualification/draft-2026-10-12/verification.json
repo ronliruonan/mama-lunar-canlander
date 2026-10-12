@@ -1,0 +1,76 @@
+{
+  "decoder": "psd-tools",
+  "results": [
+    {
+      "file": "rice/lockscreen.psd",
+      "size": [
+        1080,
+        2400
+      ],
+      "layers": 5,
+      "text_layers": 4,
+      "independent_composite_mean_difference": 0.0016598508230452674,
+      "independent_composite_max_difference": 1
+    },
+    {
+      "file": "rice/wallpaper.psd",
+      "size": [
+        1080,
+        2400
+      ],
+      "layers": 1,
+      "text_layers": 0,
+      "independent_composite_mean_difference": 0.0,
+      "independent_composite_max_difference": 0
+    },
+    {
+      "file": "rice/icons.psd",
+      "size": [
+        1080,
+        1000
+      ],
+      "layers": 25,
+      "text_layers": 12,
+      "independent_composite_mean_difference": 0.004068827160493827,
+      "independent_composite_max_difference": 1
+    },
+    {
+      "file": "landscape/lockscreen.psd",
+      "size": [
+        1080,
+        2400
+      ],
+      "layers": 10,
+      "text_layers": 4,
+      "independent_composite_mean_difference": 0.002977366255144033,
+      "independent_composite_max_difference": 1
+    },
+    {
+      "file": "landscape/wallpaper.psd",
+      "size": [
+        1080,
+        2400
+      ],
+      "layers": 6,
+      "text_layers": 0,
+      "independent_composite_mean_difference": 0.0013065843621399176,
+      "independent_composite_max_difference": 1
+    },
+    {
+      "file": "landscape/icons.psd",
+      "size": [
+        1080,
+        1000
+      ],
+      "layers": 25,
+      "text_layers": 12,
+      "independent_composite_mean_difference": 0.004933950617283951,
+      "independent_composite_max_difference": 1
+    }
+  ],
+  "limits": [
+    "No native Photoshop opening/editing has been verified.",
+    "This does not confirm OPPO design qualification approval.",
+    "The first wallpaper contains one declared imported raster-art layer."
+  ]
+}

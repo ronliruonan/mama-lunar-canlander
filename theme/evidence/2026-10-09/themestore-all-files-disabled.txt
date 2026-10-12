@@ -1,0 +1,9 @@
+2026-10-09 17:48 (UTC+08:00)
+Device: OnePlus MT2110 / Android 14 / ColorOS 14
+Package: com.heytap.themestore
+Action: Disabled All files access through Android Settings UI.
+Read-only verification: adb -s 56cfa1c6 shell appops get com.heytap.themestore MANAGE_EXTERNAL_STORAGE
+Uid mode: MANAGE_EXTERNAL_STORAGE: deny
+MANAGE_EXTERNAL_STORAGE: default; time=+56m45s370ms ago; rejectTime=+1h5m50s449ms ago
+
+The UID-level deny confirms that temporary all-files access is disabled.

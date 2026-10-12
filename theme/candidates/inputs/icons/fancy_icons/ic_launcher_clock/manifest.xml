@@ -1,0 +1,5 @@
+<Icon version="1" width="240" height="240" frameRate="0" useVariableUpdater="DateTime.Minute">
+<Image src="clock_day_bg.png" />
+<Image src="clock_day_hour.png" centerX="120" centerY="120" angle="#hour12*30+#minute/2" />
+<Image src="clock_day_minute.png" centerX="120" centerY="120" angle="#minute*6" />
+</Icon>

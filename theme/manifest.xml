@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen version="1" frameRate="30" vibrate="false" displayDesktop="true" screenWidth="1080">
+    <Wallpaper src="default_lock_wallpaper.png" visibility="1" />
+
+    <!-- 保留编辑器默认的上滑解锁手势。 -->
+    <Unlocker alias="解锁控件" name="unlocker">
+        <StartPoint alias="起点" x="0" y="#touch_begin_y" w="#screen_width" h="1" />
+        <EndPoint alias="终点" x="0" y="ifelse(gt(-#unlocker.move_y,450),#touch_y,-1)" w="#screen_width" h="1" />
+    </Unlocker>
+
+    <!-- 时间放在深色区域，为系统通知留出中部空间。 -->
+    <DateTime x="90" y="350" color="#FFFFFF" size="164" align="left" alignV="center" format="kk:mm" />
+    <DateTime x="90" y="510" color="#FFFFFF" size="58" align="left" alignV="center" format="yyyy年M月d日" />
+
+    <!-- NNNN 由 OPPO 锁屏引擎动态计算，背景图片里没有固定日期。 -->
+    <DateTime x="540" y="1740" color="#103424" size="124" align="center" alignV="center" format="农历NNNN" />
+</Lockscreen>

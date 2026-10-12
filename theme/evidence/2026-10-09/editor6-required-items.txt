@@ -1,0 +1,64 @@
+Window: "主题编辑器——首页", App: HeyTapThemeEditor.
+0 标准窗口 主题编辑器——首页, Secondary Actions: Raise
+	1 HTML 内容 主题编辑器——首页, URL: file:///private/tmp/lunar-editor6/HeyTapThemeEditor.app/Contents/Resources/app.asar/out/renderer/business/home/home.html#/edit
+		2 container
+			3 container
+				4 container
+				5 container
+					6 container
+						7 container 爸妈农历日期测试(1)
+							8 文本 爸妈农历日期测试(1)
+						9 图像
+						10 container 爸妈农历锁屏
+							11 文本 爸妈农历锁屏
+						12 图像
+						13 container 爸妈农历主题
+							14 文本 爸妈农历主题
+						15 图像
+						16 container test
+							17 文本 test
+						18 图像
+						19 container 爸妈农历日期测试
+							20 文本 爸妈农历日期测试
+						21 图像
+					22 图像
+				23 文本 帮助
+				24 链接 登录 / 注册
+					25 文本 登录 / 注册
+				26 HTML 内容 主题编辑器——主题编辑, URL: file:///private/tmp/lunar-editor6/HeyTapThemeEditor.app/Contents/Resources/app.asar/out/renderer/business/theme/theme.html?theme_id=A02834D1F1874DAA99120FFBD658BA91&theme_name=%E7%88%B8%E5%A6%88%E5%86%9C%E5%8E%86%E6%97%A5%E6%9C%9F%E6%B5%8B%E8%AF%95(1)&theme_type=0&rule_version=6&online=true#/framework/static_corner
+					27 container 资源打包确认清单 主题名称：爸妈农历日期验证 资源信息 → 2 资源必做项清单 → 3 商品展示图 → 4 资源打包
+						28 container
+							29 container
+								30 text 资源打包确认清单 主题名称：爸妈农历日期验证
+								31 图像
+								32 text 资源信息 → 2 资源必做项清单 → 3 商品展示图 → 4 资源打包
+							33 按钮 关闭此对话框
+							34 container
+								35 text 1 静态桌面壁纸 已完成
+								36 图像
+								37 text 2 系统图标-静态 已完成
+								38 图像
+								39 text 3 系统图标-动态 已完成
+								40 图像
+								41 text 4 样板 已完成
+								42 图像
+								43 text 5 图标 已完成
+								44 图像
+								45 text 6 静态锁屏壁纸 已完成
+								46 图像
+								47 text 7 锁屏-首页 已完成
+								48 图像
+							49 container
+								50 按钮 上一步
+								51 按钮 下一步
+				52 container 拖动可移动 · 悬停展开最近工具 · 点击打开列表
+					53 按钮 工具箱
+54 menu bar
+	55 HeyTapThemeEditor
+	56 File
+	57 Edit
+	58 View
+	59 Window
+	60 Help
+
+The focused UI element is 26 HTML 内容 主题编辑器——主题编辑, URL: file:///private/tmp/lunar-editor6/HeyTapThemeEditor.app/Contents/Resources/app.asar/out/renderer/business/theme/theme.html?theme_id=A02834D1F1874DAA99120FFBD658BA91&theme_name=%E7%88%B8%E5%A6%88%E5%86%9C%E5%8E%86%E6%97%A5%E6%9C%9F%E6%B5%8B%E8%AF%95(1)&theme_type=0&rule_version=6&online=true#/framework/static_corner

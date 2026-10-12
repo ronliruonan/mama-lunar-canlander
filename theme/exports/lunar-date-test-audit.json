@@ -1,0 +1,75 @@
+{
+  "path": "爸妈农历日期测试_6.theme",
+  "entries": 26,
+  "files": 20,
+  "crc_error": null,
+  "xml_errors": [],
+  "nested": [
+    {
+      "path": "com.android.launcher",
+      "entries": 10,
+      "files": 7,
+      "crc_error": null,
+      "xml_errors": [],
+      "nested": []
+    },
+    {
+      "path": "com.android.systemui",
+      "entries": 2,
+      "files": 1,
+      "crc_error": null,
+      "xml_errors": [],
+      "nested": []
+    },
+    {
+      "path": "com.coloros.alarmclock",
+      "entries": 2,
+      "files": 1,
+      "crc_error": null,
+      "xml_errors": [],
+      "nested": []
+    },
+    {
+      "path": "com.coloros.alarmclock_002",
+      "entries": 2,
+      "files": 1,
+      "crc_error": null,
+      "xml_errors": [],
+      "nested": []
+    },
+    {
+      "path": "icons",
+      "entries": 114,
+      "files": 105,
+      "crc_error": null,
+      "xml_errors": [],
+      "nested": []
+    },
+    {
+      "path": "lockscreen/lockstyle",
+      "entries": 36,
+      "files": 24,
+      "crc_error": null,
+      "xml_errors": [],
+      "nested": []
+    },
+    {
+      "path": "wallpaper",
+      "entries": 34,
+      "files": 22,
+      "crc_error": null,
+      "xml_errors": [],
+      "nested": []
+    }
+  ],
+  "identity": {
+    "Author": "LunarCal",
+    "Summary": "爸妈农历日期测试",
+    "UUID": "6E16BF03961E440F959B087DF09A54F2",
+    "PackageName": "6E16BF03961E440F959B087DF09A54F2",
+    "EditorVersion": "6",
+    "IsGlobalTheme": "0"
+  },
+  "bytes": 42099068,
+  "sha256": "68abcdfefca574825e74ed6617d56fe0be883a64534354428c1877e852dac4fd"
+}

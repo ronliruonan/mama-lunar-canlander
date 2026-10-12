@@ -1,0 +1,399 @@
+{
+  "status": "design-draft-not-submitted",
+  "font": "STHeitiTC-Medium",
+  "rasterSource": "theme/assets/lockscreen-background.png; existing flattened artwork",
+  "notes": [
+    "PSD text layers are editable; other visual components are separately rasterized from included SVG sources.",
+    "No native Photoshop verification or OPPO approval has been performed.",
+    "Preview dates are examples, not baked into wallpaper PNGs.",
+    "Icons are 12 design samples, not a complete exported theme."
+  ],
+  "works": [
+    {
+      "variant": "rice",
+      "title": "稻穗 · 大字农历",
+      "documents": [
+        {
+          "file": "rice/lockscreen.psd",
+          "bytes": 14921778,
+          "width": 1080,
+          "height": 2400,
+          "sha256": "62ae24e5c1d9d3b062d658866538ea9cf5fad1f9bb01783f7c9533f5a033877f",
+          "layers": [
+            {
+              "name": "稻穗水墨_已有PNG底图_内部未分层",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "时间_展示示例_可编辑文字",
+              "kind": "editable-text",
+              "text": "17:34"
+            },
+            {
+              "name": "公历与星期_展示示例_可编辑文字",
+              "kind": "editable-text",
+              "text": "2026年10月9日 星期五"
+            },
+            {
+              "name": "农历标签_可编辑文字",
+              "kind": "editable-text",
+              "text": "农历"
+            },
+            {
+              "name": "农历日期_展示示例_可编辑文字",
+              "kind": "editable-text",
+              "text": "八月廿九"
+            }
+          ]
+        },
+        {
+          "file": "rice/wallpaper.psd",
+          "bytes": 14874078,
+          "width": 1080,
+          "height": 2400,
+          "sha256": "03a0d9cada3ead33a81587f1fe582fedb3a7f086b73f1e43a656843af77d69bc",
+          "layers": [
+            {
+              "name": "稻穗水墨_已有PNG底图_内部未分层",
+              "kind": "component-bitmap"
+            }
+          ]
+        },
+        {
+          "file": "rice/icons.psd",
+          "bytes": 633321,
+          "width": 1080,
+          "height": 1000,
+          "sha256": "7ae79400be5e0b56d8dd9929c5abd905b0a6dfe05f65c37df2ca6ba197dd17b8",
+          "layers": [
+            {
+              "name": "图标画板底色",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "电话_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "电话_名称",
+              "kind": "editable-text",
+              "text": "电话"
+            },
+            {
+              "name": "信息_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "信息_名称",
+              "kind": "editable-text",
+              "text": "信息"
+            },
+            {
+              "name": "通讯录_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "通讯录_名称",
+              "kind": "editable-text",
+              "text": "通讯录"
+            },
+            {
+              "name": "相机_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "相机_名称",
+              "kind": "editable-text",
+              "text": "相机"
+            },
+            {
+              "name": "照片_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "照片_名称",
+              "kind": "editable-text",
+              "text": "照片"
+            },
+            {
+              "name": "日历_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "日历_名称",
+              "kind": "editable-text",
+              "text": "日历"
+            },
+            {
+              "name": "时钟_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "时钟_名称",
+              "kind": "editable-text",
+              "text": "时钟"
+            },
+            {
+              "name": "设置_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "设置_名称",
+              "kind": "editable-text",
+              "text": "设置"
+            },
+            {
+              "name": "文件_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "文件_名称",
+              "kind": "editable-text",
+              "text": "文件"
+            },
+            {
+              "name": "计算器_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "计算器_名称",
+              "kind": "editable-text",
+              "text": "计算器"
+            },
+            {
+              "name": "浏览器_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "浏览器_名称",
+              "kind": "editable-text",
+              "text": "浏览器"
+            },
+            {
+              "name": "音乐_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "音乐_名称",
+              "kind": "editable-text",
+              "text": "音乐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "landscape",
+      "title": "山川 · 清历",
+      "documents": [
+        {
+          "file": "landscape/lockscreen.psd",
+          "bytes": 691905,
+          "width": 1080,
+          "height": 2400,
+          "sha256": "4cb5ae51cb531d7cab544feadcacec32241526189a60a86de21db7f676a01f38",
+          "layers": [
+            {
+              "name": "纸色底层",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "金色日轮",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "远山",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "近山",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "梯田",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "稻穗线条装饰",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "时间_展示示例_可编辑文字",
+              "kind": "editable-text",
+              "text": "17:34"
+            },
+            {
+              "name": "公历与星期_展示示例_可编辑文字",
+              "kind": "editable-text",
+              "text": "2026年10月9日 星期五"
+            },
+            {
+              "name": "农历标签_可编辑文字",
+              "kind": "editable-text",
+              "text": "农历"
+            },
+            {
+              "name": "农历日期_展示示例_可编辑文字",
+              "kind": "editable-text",
+              "text": "八月廿九"
+            }
+          ]
+        },
+        {
+          "file": "landscape/wallpaper.psd",
+          "bytes": 510061,
+          "width": 1080,
+          "height": 2400,
+          "sha256": "40ec9d2a55a25fafabe84e5e2eaf8ca844f5e6d20634cbb263a74a2baf544f8b",
+          "layers": [
+            {
+              "name": "纸色底层",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "金色日轮",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "远山",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "近山",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "梯田",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "稻穗线条装饰",
+              "kind": "component-bitmap"
+            }
+          ]
+        },
+        {
+          "file": "landscape/icons.psd",
+          "bytes": 550685,
+          "width": 1080,
+          "height": 1000,
+          "sha256": "e8084b299a02642df92b15ae71d8e2b91b57bd039edc9166cb59befa13d85a90",
+          "layers": [
+            {
+              "name": "图标画板底色",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "电话_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "电话_名称",
+              "kind": "editable-text",
+              "text": "电话"
+            },
+            {
+              "name": "信息_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "信息_名称",
+              "kind": "editable-text",
+              "text": "信息"
+            },
+            {
+              "name": "通讯录_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "通讯录_名称",
+              "kind": "editable-text",
+              "text": "通讯录"
+            },
+            {
+              "name": "相机_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "相机_名称",
+              "kind": "editable-text",
+              "text": "相机"
+            },
+            {
+              "name": "照片_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "照片_名称",
+              "kind": "editable-text",
+              "text": "照片"
+            },
+            {
+              "name": "日历_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "日历_名称",
+              "kind": "editable-text",
+              "text": "日历"
+            },
+            {
+              "name": "时钟_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "时钟_名称",
+              "kind": "editable-text",
+              "text": "时钟"
+            },
+            {
+              "name": "设置_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "设置_名称",
+              "kind": "editable-text",
+              "text": "设置"
+            },
+            {
+              "name": "文件_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "文件_名称",
+              "kind": "editable-text",
+              "text": "文件"
+            },
+            {
+              "name": "计算器_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "计算器_名称",
+              "kind": "editable-text",
+              "text": "计算器"
+            },
+            {
+              "name": "浏览器_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "浏览器_名称",
+              "kind": "editable-text",
+              "text": "浏览器"
+            },
+            {
+              "name": "音乐_独立图标",
+              "kind": "component-bitmap"
+            },
+            {
+              "name": "音乐_名称",
+              "kind": "editable-text",
+              "text": "音乐"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
