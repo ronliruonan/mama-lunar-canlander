@@ -1,0 +1,55 @@
+{
+  "checked_date": "2026-10-12",
+  "retrieval": "OPPO public doc/detail API without login",
+  "documents": [
+    {
+      "doc_id": 12216,
+      "title": "组件类型与示意",
+      "url": "https://open.oppomobile.com/documentation/page/info?id=12216",
+      "excerpts": [
+        " 组件卡类型与示意 OS14.0.1及以上将支持桌面组件卡替换，将基于如下类型对组件卡进行分类 细分类型 动效特征 组件大小 组件描述 示意 普通组件 普通组件 趣味组件 大/中/小均有 类似【木鱼敲击】、【答案之书】、【每日抽签】等趣味互动类组件。如示意，用户点击木鱼后，点击动效/声音反馈。点击到达一定次数，全屏展示佛光普照效果 个性文字 大/中/小均有 设计师可使用模版文字或自定义文字，并设置不同颜色的文字、自定义文"
+      ]
+    },
+    {
+      "doc_id": 12217,
+      "title": "组件卡功能概述",
+      "url": "https://open.oppomobile.com/documentation/page/info?id=12217",
+      "excerpts": [
+        "用时可根据自己的想法将桌面组件卡自由组合，打造个性化桌面。 支持版本 当前支持OS12及以上，主题商店版本9.5及以上，陆续向下覆盖 组件类型说明 单组件 仅包含单个视觉的组件卡，只是同一个卡片延展不同（2-3张）的尺寸； 单组件内不同尺寸表达的组件主功能需相同 例： 1.一张组件卡用一个蜡笔小新制作，且仅包含倒计时一个功能； 2.一张组件卡用一个蜡笔小新制作，左边为时钟功能，右边为日历功能，也认为是单组件； 3.一张组件卡用一个蜡笔小新制作，2x2小卡包"
+      ]
+    },
+    {
+      "doc_id": 13599,
+      "title": "主题卡<Widget>",
+      "url": "https://open.oppomobile.com/documentation/page/info?id=13599",
+      "excerpts": [
+        " 主题卡<Widget> 功能概述 支持场景：主题卡 支持范围：ColorOS 14.1及以上 主题卡全面继承了现有锁屏的功能和写法，实现桌面小组件功能，打造个性化桌面。 XML 规范 < Widget frameRate = \"\" screenWidth = \"\" version = \"\" vibrate = \"\" pressure = \"\" id = \"\" > </ Widget > 参数说明 主题卡根标签除了支持通用属性外，还支持以下属性 参数"
+      ]
+    },
+    {
+      "doc_id": 13604,
+      "title": "变量<Var>",
+      "url": "https://open.oppomobile.com/documentation/page/info?id=13604",
+      "excerpts": [
+        "天干地支 year_lunar_leap 0/1：是否闰年 month_lunar 农历月份从 1 开始计 month_lunar_leap 0/1：是否润月 date_lunar 农历日期 从 1 开始计 电池相关 变量 解释 备注 battery_level 当前电量，取值范围 1~100 battery_state 当前电池状态，取值如下：0 表示正常使用状态；1 表示正在充电状态；2 表示低电量状态（电量小于 20）；3 表示电量已充满； 屏幕相关",
+        "开始计 month_lunar_leap 0/1：是否润月 date_lunar 农历日期 从 1 开始计 电池相关 变量 解释 备注 battery_level 当前电量，取值范围 1~100 battery_state 当前电池状态，取值如下：0 表示正常使用状态；1 表示正在充电状态；2 表示低电量状态（电量小于 20）；3 表示电量已充满； 屏幕相关 变量 解释 备注 screen_width 屏幕宽度 screen_height 屏幕高度 raw"
+      ]
+    },
+    {
+      "doc_id": 12452,
+      "title": "组件卡常见问题",
+      "url": "https://open.oppomobile.com/documentation/page/info?id=12452",
+      "excerpts": [
+        "推荐，部分列表页面将通过标签识别数据优质的资源推荐。 组件卡需要什么资质？ 需入驻主题商店成为组件卡设计师，上传作品展示图以及作品文件，审核通过后即可拥有对应资质。 资源上传问题 上传提示themeInfo.xml信息文件不存在 检查文件层级是否多压缩了一层文件包 步数，心率组件被打回 健康信息内容需要删除，当前有问题无法解决：步数，心率 步数，应用无法跳转快捷方式，但已经加了快捷跳转 应用跳转记得加category=“android.intent.cat"
+      ]
+    },
+    {
+      "doc_id": 10829,
+      "title": "息屏制作指导规范",
+      "url": "https://open.oppomobile.com/documentation/page/info?id=10829",
+      "excerpts": [
+        " 息屏制作指导规范 息屏编辑器 点击跳转息屏编辑器 （动态建议用序列帧制作） 制作规范 息屏模板 点击跳转 OPPO 息屏模板 "
+      ]
+    }
+  ]
+}

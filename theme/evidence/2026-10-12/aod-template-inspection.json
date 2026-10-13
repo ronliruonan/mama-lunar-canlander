@@ -1,0 +1,106 @@
+{
+  "checked_date": "2026-10-12",
+  "source_document": "https://open.oppomobile.com/documentation/page/info?id=10829",
+  "template_url": "https://openfs.oppomobile.com/open/oop/202102/24/a601b6012866ac63f0ddb0980463b10b.zip",
+  "bytes": 7792186,
+  "sha256": "6d9b426d288c16eee38637b70e71aac3c2e76da8b3c73a4000fb9a1472e92f0c",
+  "zip_entry_count": 376,
+  "layouts": [
+    {
+      "file": "OPPOµü»σ▒Åµ¿íµ¥┐-2.23/bgonly-gif/layout/layout.xml",
+      "lunar_views": [
+        {
+          "alignment": "center",
+          "direction": "horizontal",
+          "width": "wrap_content",
+          "height": "wrap_content",
+          "textSize": "14",
+          "typefacePath": "normal",
+          "linearGradientStart": "lt",
+          "linearGradientEnd": "rb",
+          "linearGradientColors": "#FFFFFF|#FFFFFF",
+          "supportGradientColors": "true",
+          "supportVisiableLunar": "true",
+          "visibility": "visiable"
+        }
+      ]
+    },
+    {
+      "file": "OPPOµü»σ▒Åµ¿íµ¥┐-2.23/horizontal-gif/layout/layout.xml",
+      "lunar_views": [
+        {
+          "alignment": "center",
+          "direction": "horizontal",
+          "width": "wrap_content",
+          "height": "wrap_content",
+          "typefacePath": "normal",
+          "textSize": "14",
+          "linearGradientEnd": "rb",
+          "linearGradientStart": "lt",
+          "supportVisiableLunar": "true",
+          "linearGradientColors": "#FFFFFF|#FFFFFF",
+          "supportGradientColors": "true",
+          "visibility": "visiable"
+        }
+      ]
+    },
+    {
+      "file": "OPPOµü»σ▒Åµ¿íµ¥┐-2.23/vertical-frame/layout/layout.xml",
+      "lunar_views": [
+        {
+          "alignment": "center",
+          "direction": "horizontal",
+          "width": "wrap_content",
+          "height": "wrap_content",
+          "typefacePath": "normal",
+          "textSize": "14",
+          "linearGradientEnd": "rb",
+          "linearGradientStart": "lt",
+          "supportVisiableLunar": "true",
+          "linearGradientColors": "#FFFFFF|#FFFFFF",
+          "supportGradientColors": "true",
+          "visibility": "visiable"
+        }
+      ]
+    },
+    {
+      "file": "OPPOµü»σ▒Åµ¿íµ¥┐-2.23/horizontal/layout/layout.xml",
+      "lunar_views": [
+        {
+          "alignment": "center",
+          "direction": "horizontal",
+          "width": "wrap_content",
+          "height": "wrap_content",
+          "typefacePath": "normal",
+          "textSize": "14",
+          "linearGradientEnd": "rb",
+          "linearGradientStart": "lt",
+          "supportVisiableLunar": "true",
+          "linearGradientColors": "#FFFFFF|#FFFFFF",
+          "supportGradientColors": "true",
+          "visibility": "visiable"
+        }
+      ]
+    },
+    {
+      "file": "OPPOµü»σ▒Åµ¿íµ¥┐-2.23/clock-pic/layout/layout.xml",
+      "lunar_views": [
+        {
+          "direction": "horizontal",
+          "alignment": "center",
+          "width": "wrap_content",
+          "height": "wrap_content",
+          "textSize": "14",
+          "typefacePath": "normal",
+          "linearGradientStart": "lt",
+          "linearGradientEnd": "rb",
+          "linearGradientColors": "#FFFFFF|#FFFFFF",
+          "supportVisiableLunar": "true",
+          "supportGradientColors": "true",
+          "visibility": "visiable"
+        }
+      ]
+    }
+  ],
+  "note": "Read-only inspection. No template artwork, author identity or resource package retained in project or installed on phone."
+}

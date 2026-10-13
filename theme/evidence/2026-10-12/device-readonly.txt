@@ -1,0 +1,8 @@
+Checked 2026-10-12 after native AOD test
+build: MT2110_14.0.0.2701(CN01)
+coloros: V14.0.0
+locale: zh-CN
+aod: versionCode=1420043 minSdk=30 targetSdk=34
+versionName=14.20.43
+theme_permission: Uid mode: MANAGE_EXTERNAL_STORAGE: deny
+MANAGE_EXTERNAL_STORAGE: default; time=+3d1h59m37s538ms ago; rejectTime=+3d1h1m18s309ms ago
